@@ -1,0 +1,21 @@
+.square{
+    width:100px; 
+    height:100px; 
+    margin:4px; 
+    border:1px solid black; 
+    float: left;
+    background-color: #3975f7;
+ 
+}
+
+.square-red-blue{
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 15%;
+   
+}
+
+
+
+
+
